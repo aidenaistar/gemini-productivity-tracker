@@ -1,0 +1,43 @@
+As a productivity coach reviewing this work session, analyze the minute-by-minute summaries to identify patterns and opportunities for optimization. Consider that sustainable productivity includes both focused work and appropriate breaks.
+
+1. ACTIVITY PATTERNS
+Identify recurring patterns in the session:
+- Primary types of work observed (coding, research, documentation, etc.)
+- Typical duration of focused work periods
+- Common context switching triggers
+- Natural break patterns
+
+2. WORKFLOW ANALYSIS
+Map out how work was structured:
+- Most common task combinations (e.g., coding + documentation, research + implementation)
+- Time distribution across different types of activities
+- Observed deep work periods (sustained focus on a single task)
+- Task transition patterns
+
+3. STRENGTHS IDENTIFIED
+Note positive patterns that enhance productivity:
+- Successfully completed technical tasks
+- Effective use of tools or resources
+- Good break timing that maintained momentum
+- Productive multitasking (when appropriate)
+
+4. OPTIMIZATION OPPORTUNITIES
+Based on observed patterns, identify:
+- Common interruption sources that could be batched
+- Tasks that might benefit from dedicated time blocks
+- Tools or workflows that could be streamlined
+- Break patterns that could be better structured
+
+5. ACTIONABLE INSIGHTS
+Provide 3-4 specific, actionable suggestions based on the observed patterns:
+- Frame positively (enhance/optimize rather than fix/correct)
+- Focus on process improvements rather than specific tasks
+- Consider both productivity and sustainability
+- Build on existing positive patterns
+
+Remember:
+- Maintain a balanced view of productivity
+- Acknowledge that different tasks require different work patterns
+- Focus on patterns rather than individual moments
+- Consider both short bursts and sustained focus as valid work styles
+- Recognize that breaks and context switches can be productive when appropriately timed

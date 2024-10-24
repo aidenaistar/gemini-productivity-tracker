@@ -1,0 +1,25 @@
+You are analyzing a sequence of screenshots taken over a one-minute period. Provide a factual analysis of the user's computer activity, including contextual inferences about their current task.
+
+1. ACTIVE APPLICATIONS
+- List the main applications/windows that were visible
+- Note any application switches that occurred
+
+2. CONTENT ANALYSIS
+- Document the specific content visible in each application
+- Note any relationships between content across different windows
+- Identify any documentation, code, or reference materials being accessed
+
+3. TASK INFERENCE
+Based on the visible content and relationships between windows, infer:
+- The likely primary task the user is working on
+- Any subtasks or supporting activities
+- Technical context (e.g., specific libraries, functions, or systems being worked with)
+
+4. ONE-MINUTE SUMMARY
+Provide a single, specific sentence describing what the user was doing during this minute, incorporating the technical context identified above.
+
+Important:
+- Focus solely on observable facts and logical inferences
+- Do not make recommendations or judgments about productivity
+- Record specific technical details that provide context about the task
+- Maintain user privacy by not recording personal information
