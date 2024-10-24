@@ -7,8 +7,8 @@ It is designed to make use of the Gemini free tier.
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/aidenaistar/productivity-tracker
-cd productivity-tracker
+git clone https://github.com/aidenaistar/gemini-productivity-tracker
+cd gemini-productivity-tracker
 ```
 
 2. Install requirements:
@@ -65,3 +65,6 @@ output/
 ## Cases that are not covered
 - Working overnight
 - Per-session summary
+
+## Other use cases
+You can freely modify the prompts in the folder to alter the output as you wish. You can also modify the code, it is not like I can stop you.
