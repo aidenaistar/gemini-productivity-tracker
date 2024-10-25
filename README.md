@@ -1,6 +1,7 @@
 # Productivity Tracker
 
 A simple Python tool that tracks your productivity by taking periodic screenshots and analyzing them using AI.
+The tool takes a screenshot every second, emulating a 1 FPS video. Screenshots are batched every minute and analyzed by Gemini. At the end of the session the tool will provide a summary of summaries.
 It is designed to make use of the Gemini free tier.
 
 ## Quick Setup
